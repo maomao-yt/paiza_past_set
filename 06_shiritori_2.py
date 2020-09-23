@@ -6,7 +6,6 @@ word_list = []
 for i in range(K):
     word_list.append(input())
 
-flg = False
 shiritori_word = []  # しりとりで使った言葉を格納するリスト
 before_word = ""
 turn = 0
